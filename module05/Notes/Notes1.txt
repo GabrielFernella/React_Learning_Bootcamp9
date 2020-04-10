@@ -1,0 +1,47 @@
+    #######  Anotações #######
+
+Pacotes instalados
+1 - yarn create react-app module05   (Para criar a estrutura de pastas react)
+2 - yarn add eslint -D (Adicionando Eslint como Dependencia de desenvolvimento)
+3 - yarn eslint --init (Para adicioanar o arquivo de configuração)
+4 - yarn add react-router-dom (Para fazer roteamento com o FrontEnd da aplicação)
+5 - yarn add styled-components (forma de inserção para o css na aplicação) (css apenas para o componente desejado, de uma ou mais paginas)
+6 -	baixe e instale a extenção vscode-styled-components para reconhecer melhor as ferramentas de estilos
+7 -
+8 -
+9 -
+10 -
+
+
+Processos Passo a Passo
+1 - crie seu peojeto, remova todas as pastas do src com exceto app.js e index
+2 - configurações do editor
+3 - Roteamento no React => Create routes.js and /pages in src/ , #  in page/ create files Main/index.js and Repository/index.js and Edit
+4 - Adicionando o styled-component
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
+
+
+
+Anotações
+
+
+
+Eslint	--init
+	1 - To check syntax, find problems, and enforce code style
+	2 - JavaScript modules (import/export)
+	3 - React
+	4 - No
+	5 - (*) Browser
+	6 - Use a popular style guide
+	7 - Airbnb: https://github.com/airbnb/javascript
+	8 - JavaScript
+	9 - Y && Y
+
+
+Snippet rocketseat
+	rfc
