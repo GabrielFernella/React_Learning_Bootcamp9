@@ -7,7 +7,7 @@ Pacotes instalados
 4 - yarn add react-router-dom (Para fazer roteamento com o FrontEnd da aplicação)
 5 - yarn add styled-components (forma de inserção para o css na aplicação) (css apenas para o componente desejado, de uma ou mais paginas)
 6 -	baixe e instale a extenção vscode-styled-components para reconhecer melhor as ferramentas de estilos
-7 -
+7 - yarn add react-icons (Pacote de icones para react)
 8 -
 9 -
 10 -
