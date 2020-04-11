@@ -8,7 +8,7 @@ Pacotes instalados
 5 - yarn add styled-components (forma de inserção para o css na aplicação) (css apenas para o componente desejado, de uma ou mais paginas)
 6 -	baixe e instale a extenção vscode-styled-components para reconhecer melhor as ferramentas de estilos
 7 - yarn add react-icons (Pacote de icones para react)
-8 -
+8 - yarn add axios (Para a conexão entre a api e o frontend)
 9 -
 10 -
 
@@ -18,9 +18,9 @@ Processos Passo a Passo
 2 - configurações do editor
 3 - Roteamento no React => Create routes.js and /pages in src/ , #  in page/ create files Main/index.js and Repository/index.js and Edit
 4 - Adicionando o styled-component
-5 -
-6 -
-7 -
+5 - criando o global styled
+6 - adicionando mais estilos para a aplicação e add icones
+7 - Listando repositórios aula 8
 8 -
 9 -
 10 -
