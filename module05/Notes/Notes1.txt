@@ -9,7 +9,7 @@ Pacotes instalados
 6 -	baixe e instale a extenção vscode-styled-components para reconhecer melhor as ferramentas de estilos
 7 - yarn add react-icons (Pacote de icones para react)
 8 - yarn add axios (Para a conexão entre a api e o frontend)
-9 -
+9 - yarn add prop-types
 10 -
 
 
